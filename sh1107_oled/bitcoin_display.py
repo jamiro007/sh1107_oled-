@@ -104,8 +104,8 @@ def main():
             # Move to next frame
             frame_idx = (frame_idx + 1) % num_frames
             
-            # Control rotation speed (~10 FPS = 3.6 seconds per full rotation)
-            time.sleep(0.1)
+            # Control rotation speed (~40 FPS = 0.9 seconds per full rotation, 4x speed)
+            time.sleep(0.025)
             
     except KeyboardInterrupt:
         print("\n\nExiting...")

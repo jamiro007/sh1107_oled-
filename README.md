@@ -1,5 +1,5 @@
 Features Published    
-✅ Works on I2c of raspi4
+✅ Works on I2c of raspi4 
 ✅ I2C 128x128 SH1107G OLED support   
 ✅ Bitcoin logo with embedded PNG (base64)  
 ✅ Smooth z-axis rotation animation (36 frames)  
